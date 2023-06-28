@@ -24,10 +24,6 @@ once. The next assignment (part 2, HW12) asks you to shuffle cards
 multiple times.  Please read both parts so that you can reuse part 1
 as much as possible.
 
-Your part 1's score will be at least 50% of the part 2's score. Thus,
-if you do well in part 2, you may get some points in part 1, even
-though your original score for part 1 may be low.
-
 
 Shuffling Method
 ================
@@ -285,16 +281,6 @@ How many possible orders can the new deck have?
 
 If an order may be generated multiple times, your program should print it multiple times.
 	
-WHAT TO SUBMIT
-==============
-
-
-```
-zip hw11.zip shuffle.c
-```
-
-Upload `hw11.zip`.
-
 Make Test More Flexible
 =======================
 

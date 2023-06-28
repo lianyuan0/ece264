@@ -8,7 +8,6 @@
 #include <string.h> 
 
 #ifdef TEST_ELIMINATE
-// 100% of the score
 void eliminate(int n, int k)
 {
   // allocate an arry of n elements
