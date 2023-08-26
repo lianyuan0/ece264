@@ -1,8 +1,7 @@
 // ***
 // *** Please modify this file and check what would happen
 // ***
-// comment added
-// another comment
+// comment removed
 
 #include "header.h"
 #ifdef TEST_ADD
